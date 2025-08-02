@@ -1,11 +1,13 @@
 # leetcode-101
-Use ChatGPT as a Powerful Learning Companion for LeetCode
+## Use ChatGPT as a Powerful Learning Companion for LeetCode
 
 LeetCode is every software engineer’s favorite—or most dreaded—part of interview preparation. To make the process more enjoyable and sustainable, I experimented with turning LeetCode practice into a repeatable, fun routine—drawing inspiration from the addictive nature of social media scrolling (think Instagram).
 
 The concept is simple: use ChatGPT prompts to create a dynamic, running tutorial—similar to what platforms like Educative aim to provide, but tailored to you. The experience becomes visually appealing and cognitively digestible, allowing you to approach LeetCode practice like a daily workout—something quick, effective, and easy to commit to.
 
 This idea is based on a few key insights:
+
+<br>
 
 **Personalized Learning Works Best**
 <br>
@@ -44,5 +46,9 @@ So I experimented with a few prompt formats—and ChatGPT responded with a surpr
 
 
 <img width="863" height="96" alt="截圖 2025-08-02 下午9 19 19" src="https://github.com/user-attachments/assets/83959d41-6c70-403f-90b8-442210ef9f38" />
+
+<br>
+
+The idea is to use the easiest and quickest way to answer "what" and "how", so you can you spend more time thinking about the "why" yourself.
 
 Soon I will release a handful of fun prompts to try which are tailored to different learning cases/objectives for your own use. Stay tuned!
