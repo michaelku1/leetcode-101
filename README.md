@@ -31,6 +31,10 @@ So I experimented with a few prompt formats—and ChatGPT responded with a surpr
 
 
 
+<img width="872" height="464" alt="截圖 2025-08-02 下午9 30 14" src="https://github.com/user-attachments/assets/38591d0e-0178-47c2-864a-f07528cad353" />
+
+
+
 <img width="878" height="437" alt="截圖 2025-08-02 下午9 19 10" src="https://github.com/user-attachments/assets/e3dc8540-0f82-4a62-8106-7767ae3b627b" />
 
 
