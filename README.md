@@ -8,16 +8,20 @@ The concept is simple: use ChatGPT prompts to create a dynamic, running tutorial
 This idea is based on a few key insights:
 
 **Personalized Learning Works Best**
-Reading others’ notes hits a ceiling quickly—because their logic might not match your way of thinking, especially when you're just starting out.
+<br>
+- Reading others’ notes hits a ceiling quickly—because their logic might not match your way of thinking, especially when you're just starting out.
 
 **Focused Learning Sessions Are Key**
-A fixed, consistent time window keeps you from burning out or procrastinating.
+<br>
+- A fixed, consistent time window keeps you from burning out or procrastinating.
 
 **Digestible, Engaging Content Increases Stickiness**
-Think of the way you scroll social media without thinking—you want your LeetCode practice to feel just as frictionless and addictive.
+<br>
+- Think of the way you scroll social media without thinking—you want your LeetCode practice to feel just as frictionless and addictive.
 
 **Minimal Setup = Daily Consistency**
-The less overhead there is to get started, the more likely you are to show up every day.
+<br>
+- The less overhead there is to get started, the more likely you are to show up every day.
 
 So I experimented with a few prompt formats—and ChatGPT responded with a surprisingly engaging, interactive interface, like this:
 
